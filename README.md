@@ -468,6 +468,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, and plain text, with other formats like PDF, csv and docx in development.
 - **[Paperless-MCP](https://github.com/baruchiro/paperless-mcp)** - An MCP server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NGX instance.
 - **[PBS API](https://github.com/matthewdcage/pbs-mcp-server)** - 🐍 ☁️ Access Australian Pharmaceutical Benefits Scheme data for medicine information, pricing, and availability. Built with Python and FastAPI.
+- **[PDFPipe](https://github.com/Johin2/pdfpipe-libraries)** - Generate pixel-perfect PDFs from HTML or URLs through the PDFPipe API. Exposes a generate_pdf tool so agents can produce invoices, reports, and other documents.
 - **[Peekaboo](https://github.com/steipete/Peekaboo)** - a macOS-only MCP server that enables AI agents to capture screenshots of applications, or the entire system.
 - **[Peliqan](https://github.com/Peliqan-io/mcp-server-peliqan)** - Data platform with ETL and built-in data warehouse, access all business applications (ERP, CRM, Accounting etc.) via MCP and run queries on your business data.
 - **[Perplexity](https://github.com/tanigami/mcp-server-perplexity)** - Interacting with Perplexity
